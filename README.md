@@ -1,0 +1,4 @@
+AutoBit
+=======
+
+algorithmic trading playground

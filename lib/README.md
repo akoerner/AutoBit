@@ -1,0 +1,1 @@
+all dependencies for the AutoBit project
